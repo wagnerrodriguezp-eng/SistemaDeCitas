@@ -5,7 +5,7 @@ using SistemaCitas.Infraestructura.Notificaciones;
 using SistemaCitas.Infraestructura.Repositorios;
 using SistemaCitas.Presentacion.Consola;
 
-// ── Raíz de Composición ──────────────────────────────────────────────────────
+// Raíz de Composición 
 // Aquí se decide qué implementaciones concretas usar en esta versión.
 // Para cambiar el canal de notificación, solo se modifica esta línea:
 //   var notificador = new NotificadorCorreo();
